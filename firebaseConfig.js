@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAQF2eD4_paRxD5fXbZgPVa17QTqm3wtu0",
-  authDomain: "superchat-64a39.firebaseapp.com",
-  projectId: "superchat-64a39",
-  storageBucket: "superchat-64a39.appspot.com",
-  messagingSenderId: "24761344192",
-  appId: "1:24761344192:web:5d23a1b80959d81d900d25",
+  apiKey: "AIzaSyBVhVLJT_zTkoduOSwds6GN814yXjdk0Ng",
+  authDomain: "graduation-project-b6b59.firebaseapp.com",
+  projectId: "graduation-project-b6b59",
+  storageBucket: "graduation-project-b6b59.appspot.com",
+  messagingSenderId: "924426544910",
+  appId: "1:924426544910:web:5e5c00808dc6f4bbc6195f"
 };
 
 // Initialize Firebase

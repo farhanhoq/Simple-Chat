@@ -1,4 +1,3 @@
-import { ArrowLeftIcon, CloseIcon } from "@chakra-ui/icons";
 import { Avatar, Button, Flex, IconButton, Text } from "@chakra-ui/react";
 import { signOut } from "firebase/auth";
 import { auth, db } from "../firebaseConfig";
@@ -64,7 +63,7 @@ export default function Sidebar() {
     <Flex
       bg="#2a2a2a"
       h="100%"
-      w="300px"
+      w="200px"
       borderEnd="1px solid"
       borderColor="gray.200"
       direction="column"

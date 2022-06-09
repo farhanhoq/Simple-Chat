@@ -49,7 +49,7 @@ export default function Chat() {
   return (
     <Flex h="100vh" bg="#2a2a2a">
       <Head>
-        <title>Chat with {getOtherEmail(chat?.users, user)}</title>
+        <title>Chat with {"Me" && getOtherEmail(chat?.users, user)}</title>
       </Head>
 
       <Sidebar />
